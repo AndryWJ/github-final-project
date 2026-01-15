@@ -1,0 +1,3 @@
+$ git branch -vv
+* main          8694557 [origin/main] Merge pull request #1 from AndryWJ/bug-fix-typo
+  bug-fix-typo  e0de351 Update copyright year in README.md
